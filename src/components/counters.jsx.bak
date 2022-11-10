@@ -31,7 +31,6 @@ class Counters extends Component {
             counter={counter}
           />
         ))}
-		<h3>Developed By- Rakesh Dwivedi</h3>
       </div>
     );
   }

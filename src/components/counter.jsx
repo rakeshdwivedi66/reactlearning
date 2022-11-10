@@ -70,7 +70,7 @@ class Counter1 extends Component {
 
            {/*  {this.state.tags.length === 0 && 'Please create a new Tag!'}
             {this.renderTags()} */}
-			<h3>Developed By- Rakesh Dwivedi</h3>
+			
             </div>
         );
     }
